@@ -5,9 +5,18 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+
+  
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+/* style = {{ 
+  backgroundImage: "url(https://media.giphy.com/media/fY4AX6yKzcQHS/giphy.gif)",
+  backgroundSize: "100%",
+  height: "auto"
+  
+
+  }} */
